@@ -1,0 +1,18 @@
+Airfoils/*
+NACA2412/*
+تقارير الفائزين السابقة/*
+Sessions/*
+*.xlsx
+something*
+trial*
+*Iteration *.xfl
+*.docx
+Iteration[0-9]/*.m
+Iteration[0-9]/airfoils/*
+Report/*
+!Report/الثُّرَيّا_DBF23.pdf
+CAD/Essential Files
+CAD/*.pdf
+CAD/*.mp4
+CAD/*.step
+
